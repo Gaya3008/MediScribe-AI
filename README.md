@@ -1,5 +1,5 @@
 ```markdown
-# MediScribe-AI: AI-Powered Medical Transcription & Physician Notetaker
+# MediScribe-AI: AI-Powered Medical Transcription
 
 ## Overview
 
@@ -68,7 +68,3 @@ This project is distributed under the MIT License.
 
 MediScribe-AI bridges advanced AI transcription with structured medical note generation inspired by physician workflows for enhanced clinical documentation efficiency.
 ```
-
-This README merges the AI transcription focus from MediScribe-AI with role-aware physician-patient conversation and structured note generation emphasized in the Physician Notetaker concept for a unified project narrative. Let me know if you want code snippets or setup guides included explicitly.
-
-[1](https://github.com/Gaya3008/MediScribe-AI)
